@@ -1,0 +1,10 @@
+
+
+.picture_cover {
+  height: 730px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*.picture {}*/
